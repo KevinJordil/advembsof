@@ -2,3 +2,7 @@
 .mbed
 projectfiles
 *.py*
+
+BUILD/
+
+node_modules/
