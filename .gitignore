@@ -3,6 +3,8 @@
 projectfiles
 *.py*
 
+mbed-os/
+
 BUILD/
 
 node_modules/
